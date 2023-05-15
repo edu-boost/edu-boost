@@ -10,6 +10,6 @@ Supp! We're EduBoost, A platform that's dedicated to STEM subjects hands on lear
 
 
 ### Socials
-
+* Founder's GitHub Link
 <p align="left"> <a href="https://www.github.com/Serenity0204" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 

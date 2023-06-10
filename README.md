@@ -6,7 +6,7 @@ Supp! We're EduBoost, An Education Platform that provides free and hands on lear
 * 🌍  We're based in California
 * ✉️  You can contact me at [eduboost0204@gmail.com](mailto:eduboost0204@gmail.com@gmail.com)
 * 🧠  We're building a free course on teaching circuit analysis.
-* 🤝  I'm open to collaborating on building new courses related to webdev/data structure/ or anything is welcome.
+* 🤝  We're open to collaborating on building new courses related to webdev/data structure/ or anything is welcome.
 
 
 ### Socials

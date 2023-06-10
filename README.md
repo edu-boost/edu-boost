@@ -13,4 +13,4 @@ Supp! We're EduBoost, An Education Platform that provides free and hands on lear
 Founder's GitHub Link
 <p align="left"> <a href="https://www.github.com/Serenity0204" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 Our Website
-<p align="left"> <a href="https://edu-boost.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="http://www.eduboost.online/" target="_blank" rel="noreferrer">EduBoost</a></p>
